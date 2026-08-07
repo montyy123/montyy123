@@ -66,6 +66,15 @@ I am a Computer Science undergraduate at the **Techno Institute of Engineering &
 
 ---
 
+### Open Source Contributions
+
+- **[aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon)** — time series machine learning library (scikit-learn ecosystem):
+  - [PR #3713](https://github.com/aeon-toolkit/aeon/pull/3713): `MiniRocketClassifier` — fitted estimator made public (`estimator_`)
+  - [PR #3714](https://github.com/aeon-toolkit/aeon/pull/3714): `RocketClassifier`, `MultiRocketClassifier`, `HydraClassifier` — fitted estimators made public (`estimator_`, `clf_`)
+  - Recognized as a project contributor via [all-contributors](https://github.com/aeon-toolkit/aeon/blob/main/.all-contributorsrc)
+
+---
+
 ### GitHub Stats
 
 <p align="center">
